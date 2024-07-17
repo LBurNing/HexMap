@@ -7,5 +7,5 @@
 4.支持导入图片，支持序列帧对话，导入的资源必须是TP生成的JsonArray格式的<br>
 5.详情打开编辑器点击帮助按钮<br>
 
-![Example Image](Image/image1.png)
-![Example Image](Image/image2.png)
+![Example Image](Image\image1.png)
+![Example Image](Image\image2.png)
