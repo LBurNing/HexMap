@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "hexForestPineSnowCovered00.png",
+	"frame": {"x":2,"y":2,"w":256,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":68,"w":256,"h":316},
+	"sourceSize": {"w":256,"h":316}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "hexForestPineSnowCovered00.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0bba081d33c76373264f3cb5d1e9de23$"
+}
+}

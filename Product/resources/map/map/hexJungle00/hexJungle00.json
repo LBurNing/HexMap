@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "hexJungle00.png",
+	"frame": {"x":2,"y":2,"w":256,"h":274},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":110,"w":256,"h":274},
+	"sourceSize": {"w":256,"h":274}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "hexJungle00.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:523f297169ede58c2c667fbba3b19d68$"
+}
+}

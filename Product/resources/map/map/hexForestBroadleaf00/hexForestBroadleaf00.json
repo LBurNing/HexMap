@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "hexForestBroadleaf00.png",
+	"frame": {"x":2,"y":2,"w":256,"h":280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":104,"w":256,"h":280},
+	"sourceSize": {"w":256,"h":280}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "hexForestBroadleaf00.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7e44897b2842755d5a2a812a67ebc918$"
+}
+}

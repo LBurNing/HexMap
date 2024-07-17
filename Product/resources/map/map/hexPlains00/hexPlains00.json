@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "hexPlains00.png",
+	"frame": {"x":2,"y":2,"w":256,"h":262},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":122,"w":256,"h":262},
+	"sourceSize": {"w":256,"h":262}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "hexPlains00.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a1a4c1dc33e34a86cf1859b1ce4fd30d$"
+}
+}

@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "hexPlainsCastle00.png",
+	"frame": {"x":2,"y":2,"w":256,"h":348},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":36,"w":256,"h":348},
+	"sourceSize": {"w":256,"h":348}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "hexPlainsCastle00.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1fd09a40ab11a1793d245c69bb13f43a$"
+}
+}
